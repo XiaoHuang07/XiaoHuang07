@@ -1,5 +1,5 @@
-- 👋 Hi, I’m XiaoHuang(class of 2022)
-- 🌱 I’m currently learning Neural Networks and Deep Learning
+- 👋 XiaoHuang，Undergraduate SWU student，class of 2022
+- 🌱 currently learning Neural Networks and Deep Learning
 
 <!---
 XiaoHuang07/XiaoHuang07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
